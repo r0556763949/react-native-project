@@ -1,0 +1,16 @@
+ 
+# Ignore build directories for C#
+bin/
+obj/
+*.user
+*.suo
+
+# Ignore node_modules for JavaScript
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore logs
+logs/
+*.log
+
